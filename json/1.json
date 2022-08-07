@@ -1,0 +1,20 @@
+{
+    "external_url": "https://github.com/chanqoDev/chanqoDev",
+    "image": "ipfs://QmeV18Vzva1f9aMyFpbHYDmQakJmFzvBrhV23jXXnAUnTT/1.jpeg",
+    "name": "MeetBitWeb3 #1",
+    "description": "MeeBit3.0",
+    "attributes": [
+        {
+            "trait_type": "Edition",
+            "value": "0"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Brown "
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "Nerd"
+        }
+    ]
+}
