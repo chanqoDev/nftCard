@@ -24,13 +24,13 @@ width: 100%;
 border-radius: 15px;
 }
 .title {
-padding: 2%; 
+padding-left: 3%;
+margin-top: 10px; 
 }
-.desc {
+.subTitle {
 padding: 2%; 
 font-size: 14px;
 color: hsl(215, 51%, 70%);
-;
 }
 .info {
  display: flex;
@@ -47,11 +47,11 @@ color: hsl(215, 51%, 70%);
  text-indent: 4px;
 }
 .price {
-   color: hsl(178, 100%, 50%); 
-   font-weight: bold;
+color: hsl(178, 100%, 50%); 
+font-weight: bold;
 }
 .time{
-    color: hsl(215, 51%, 70%);
+color: hsl(215, 51%, 70%);
 }
 .ethImg {
 width: 10px;
@@ -60,9 +60,6 @@ height: auto;
 .clockImg {
 width: 15px; 
 height: auto;
-}
-span {
-   color: hsl(0, 0%, 100%);
 }
 .creator{
 margin-top: 4px;
@@ -79,3 +76,6 @@ width: 30px;
 margin-right: 7px;
 }
  
+.creatorName {
+color: hsl(0, 0%, 100%);
+}
