@@ -1,0 +1,24 @@
+{
+    "external_url": "https://github.com/chanqoDev/chanqoDev",
+    "image": "ipfs://QmXjPDFkJ5A3P1zitiJegHhghn74tymry5kR4ZUtXzHZkP/3.png",
+    "name": "MeeBit #3",
+    "description": "MeeBit3.0 OctavioBlockHead",
+    "attributes": [
+        {
+            "trait_type": "Glasses",
+            "value": "Nerd"
+        },
+        {
+            "trait_type": "Hair Style",
+            "value": "Green BaseballCap"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Code punisher"
+        },
+        {
+            "trait_type": "Shoes",
+            "value": "Sport Devs"
+        }
+    ]
+}

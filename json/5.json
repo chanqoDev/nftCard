@@ -1,0 +1,24 @@
+{
+    "external_url": "https://github.com/chanqoDev/chanqoDev",
+    "image": "ipfs://QmXjPDFkJ5A3P1zitiJegHhghn74tymry5kR4ZUtXzHZkP/5.png",
+    "name": "MeeBit #5",
+    "description": "MeeBit3.0 ElizabethBlockHead",
+    "attributes": [
+        {
+            "trait_type": "Glasses",
+            "value": "Nerd"
+        },
+        {
+            "trait_type": "Hair Style",
+            "value": "Long"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Tank Top"
+        },
+        {
+            "trait_type": "Shoes",
+            "value": "Green Devs"
+        }
+    ]
+}

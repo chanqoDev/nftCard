@@ -1,24 +1,24 @@
 {
     "external_url": "https://github.com/chanqoDev/chanqoDev",
-    "image": "ipfs://QmXjPDFkJ5A3P1zitiJegHhghn74tymry5kR4ZUtXzHZkP/0.png",
-    "name": "MeeBit #0",
-    "description": "MeeBit3.0 DanBlockHead",
+    "image": "ipfs://QmXjPDFkJ5A3P1zitiJegHhghn74tymry5kR4ZUtXzHZkP/8.png",
+    "name": "MeeBit #8",
+    "description": "MeeBit3.0 ChristianBlockHead",
     "attributes": [
         {
             "trait_type": "Hair Color",
-            "value": "Black"
+            "value": "Blond"
         },
         {
             "trait_type": "Hair Style",
-            "value": "Headphones"
+            "value": "Short"
         },
         {
             "trait_type": "Shirt",
-            "value": "vibes"
+            "value": "Dev Gray"
         },
         {
             "trait_type": "Shoes",
-            "value": "Yellow Devs"
+            "value": "Green Devs"
         }
     ]
 }

@@ -1,20 +1,28 @@
 {
     "external_url": "https://github.com/chanqoDev/chanqoDev",
-    "image": "ipfs://QmeV18Vzva1f9aMyFpbHYDmQakJmFzvBrhV23jXXnAUnTT/1.jpeg",
-    "name": "MeetBitWeb3 #1",
-    "description": "MeeBit3.0",
+    "image": "ipfs://QmXjPDFkJ5A3P1zitiJegHhghn74tymry5kR4ZUtXzHZkP/1.png",
+    "name": "MeeBit #1",
+    "description": "MeeBit3.0 BraulioBlockHead",
     "attributes": [
         {
-            "trait_type": "Edition",
-            "value": "0"
+            "trait_type": "Hair Color",
+            "value": "Black"
+        },
+         {
+            "trait_type": "Beared",
+            "value": "Black"
         },
         {
-            "trait_type": "Type",
-            "value": "Brown "
+            "trait_type": "Hair Style",
+            "value": "Slickback"
         },
         {
-            "trait_type": "Glasses",
-            "value": "Nerd"
+            "trait_type": "Shirt",
+            "value": "Vibes"
+        },
+        {
+            "trait_type": "Shoes",
+            "value": "Sneakers Devs"
         }
     ]
 }

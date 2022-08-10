@@ -1,0 +1,24 @@
+{
+    "external_url": "https://github.com/chanqoDev/chanqoDev",
+    "image": "ipfs://QmXjPDFkJ5A3P1zitiJegHhghn74tymry5kR4ZUtXzHZkP/4.png",
+    "name": "MeeBit #4",
+    "description": "MeeBit3.0 GalinaBlockHead",
+    "attributes": [
+        {
+            "trait_type": "Hair color",
+            "value": "Blondie"
+        },
+        {
+            "trait_type": "Hair Style",
+            "value": "Long"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "Heart coder"
+        },
+        {
+            "trait_type": "Shoes",
+            "value": "Black Devs"
+        }
+    ]
+}
